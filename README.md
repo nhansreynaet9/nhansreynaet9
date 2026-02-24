@@ -1,15 +1,15 @@
 <!-- ========================================= -->
-<!--        Nhan Sreynaet Premium Profile      -->
+<!--        Nhan Sreynaet GitHub Profile       -->
 <!-- ========================================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Nhan%20Sreynaet&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡ Full-Stack Developer | Startup Builder | Cambodia 🇰🇭</h1>
+<h1 align="center">⚡ Full-Stack Developer | EV & Smart Mobility | Cambodia 🇰🇭</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js;Laravel+Developer;EV+%26+Smart+Mobility+Enthusiast;Startup+Mindset+%7C+Track+Bugs+Fix+Fast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js;Laravel+Developer;EV+%26+Smart+Mobility+Focused;Build+Clean+Systems+Ship+Fast+Fix+Bugs" />
 </p>
 
 <p align="center">
@@ -20,35 +20,25 @@
 
 ## 💫 About Me
 
-I’m a **passionate Full-Stack Developer** focused on building impactful tech solutions for **Cambodia**, especially in:
+I’m a **passionate Full-Stack Developer** building impactful technology solutions for **Cambodia**, especially in:
 
-- ⚡ EV & Smart Mobility
-- 🏙️ Local Utility Platforms
-- 🚀 Startup & Product Development
-- 📱 Scalable Mobile & Web Applications
+- ⚡ EV & Smart Mobility  
+- 🏙️ Local Utility Platforms  
+- 🚀 Product & System Development  
+- 📱 Scalable Mobile & Web Applications  
 
-I enjoy building complete systems — from UI design to backend logic and database architecture — with clean, maintainable code.
+I enjoy building complete systems — from UI/UX to backend architecture and database design — with clean, maintainable, and production-ready code.
 
 ---
 
 ## 🚀 Projects
 
-### 🌟 Nisset
-A startup-focused platform contributing to Cambodia’s growing tech ecosystem.  
-I contribute across full-stack development including mobile, backend, and database architecture.
+### 🌟 Nisset (Personal Project)
+A personal full-stack platform fully designed and developed by me.  
+I manage the architecture, mobile development, backend APIs, and database structure independently.
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/nhan-sreynaet" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nhansreynaet9@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+### 🚀 Startup Contributions
+I collaborate with teams on startup projects — contributing to feature development, backend systems, database optimization, performance improvements, and production maintenance.
 
 ---
 
@@ -71,7 +61,7 @@ I contribute across full-stack development including mobile, backend, and databa
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -111,9 +101,6 @@ I contribute across full-stack development including mobile, backend, and databa
 
 ---
 
-<p align="center">
-💡 Light Mode attrack bugs✅
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
