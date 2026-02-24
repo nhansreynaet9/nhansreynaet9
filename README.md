@@ -1,19 +1,19 @@
 <!-- ========================================= -->
-<!--        Nhan Sreynaet | Clean Profile      -->
+<!--        Nhan Sreynaet | Smart Mobility     -->
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Nhan%20Sreynaet&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B91,100:FF0080&height=210&section=header&text=Nhan%20Sreynaet&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡Smart Mobility Builder from Cambodia 🇰🇭</h1>
+<h1 align="center">⚡ Smart Mobility Builder from Cambodia 🇰🇭</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js;Building+Scalable+Systems;EV+%26+Smart+Mobility;Ship+Fast+Fix+Bugs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FF4B91&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js;AI+Chatbot+Developer;EV+%26+Smart+Mobility;Secure+Systems+with+JWT" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhansreynaet9&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nhansreynaet9&label=Profile%20views&color=FF4B91&style=flat" />
 </p>
 
 ---
@@ -22,22 +22,47 @@
 
 Full-stack developer building scalable systems for EV, smart mobility, and digital platforms.
 
-Currently working at **Pointhub** as a **Developer**, focusing on:
-- 📱 Mobile application development  
-- 🌐 Website development  
-- ⚙️ Backend integration & system improvements  
+I design secure and production-ready systems — from frontend to backend and database architecture — with strong attention to performance and authentication security.
 
-I design complete solutions — from frontend to backend and database architecture — with clean, production-ready code.
+---
+
+## 🏢 Experience
+
+### 💼 Developer Intern — Pointhub  
+**August 1, 2025 – February 2026 (6 Months Internship)**  
+
+**Key Responsibilities:**
+
+- 📱 Developed and maintained mobile applications using React Native  
+- 🌐 Built and improved website features  
+- ⚙️ Integrated backend APIs and optimized database queries  
+- 🔐 Implemented authentication systems using JWT (JSON Web Token)  
+- 🗄️ Worked with MongoDB in production environments  
+- 🤖 Developed and integrated AI-powered chatbot features  
+- 🧪 Tested and documented APIs using Swagger and Postman  
+- 🐞 Identified, tracked, and resolved application bugs  
+- 🚀 Contributed to performance improvements and system scalability  
+
+Worked in a real production environment using agile workflow and collaborative development practices.
 
 ---
 
 ## 🚀 Projects
 
 ### 🌟 Nisset (Personal Project)
-Independently architected and developed full-stack platform.
+Independently architected and developed a full-stack platform:
+- System architecture  
+- Mobile development  
+- Backend APIs  
+- JWT-based authentication  
+- Database design & optimization  
 
 ### 🚀 Startup Contributions
-Collaborating with teams to build features, optimize systems, and maintain production applications.
+Collaborated with startup teams to:
+- Build scalable features  
+- Improve backend performance  
+- Optimize database structures  
+- Maintain secure production-ready systems  
 
 ---
 
@@ -53,11 +78,12 @@ Collaborating with teams to build features, optimize systems, and maintain produ
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🔥 Backend
+### 🔥 Backend & Security
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -91,9 +117,9 @@ Collaborating with teams to build features, optimize systems, and maintain produ
 ---
 
 <p align="center">
-💡 Track Bugs • Ship Better • Improve Daily
+💡 Secure • Scalable • Production-Ready
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:FF4B91&height=120&section=footer"/>
 </p>
