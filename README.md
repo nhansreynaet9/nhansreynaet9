@@ -1,28 +1,28 @@
 <!-- ========================================= -->
-<!--        Nhan Sreynaet | Smart Mobility     -->
+<!--        Nhan Sreynaet | System Architect   -->
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B91,100:FF0080&height=210&section=header&text=Nhan%20Sreynaet&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2F,100:FF0080&height=220&section=header&text=Nhan%20Sreynaet&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡ Smart Mobility Builder from Cambodia 🇰🇭</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FF4B91&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js;AI+Chatbot+Developer;EV+%26+Smart+Mobility;Secure+Systems+with+JWT" />
-</p>
+<h1 align="center">⚡ Full-Stack Engineer | Smart Mobility Architect</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhansreynaet9&label=Profile%20views&color=FF4B91&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FF0080&center=true&vCenter=true&width=900&lines=System+Architecture+%26+Scalable+Design;Secure+Backend+Engineering;React+%7C+React+Native+%7C+Node.js;AI+Chatbot+Integration;JWT+%7C+RBAC+%7C+Production+Security;Building+Real-World+Systems" />
 </p>
+
+
+
+
 
 ---
 
 ## 💫 About Me
 
-Full-stack developer building scalable systems for EV, smart mobility, and digital platforms.
+Full-stack developer building scalable systems for smart mobility, and digital platforms.
 
-I design secure and production-ready systems — from frontend to backend and database architecture — with strong attention to performance and authentication security.
+I design secure and production-ready systems from frontend to backend and database architecture — with strong attention to performance and authentication security.
 
 ---
 
@@ -57,6 +57,28 @@ Independently architected and developed a full-stack platform:
 - JWT-based authentication  
 - Database design & optimization  
 
+---
+
+### 📊 Attendance Tracker (Internship Project)
+
+Designed and developed a **production-ready mobile application and website** during my internship.
+
+**System Architecture Included:**
+
+- 📱 Cross-platform mobile app (React Native)  
+- 🌐 Web-based admin dashboard  
+- 🔐 JWT-based authentication system  
+- 👥 Role-Based Access Control (Admin / Staff / User roles)  
+- 🤖 AI-powered chatbot integration  
+- 🗄️ Secure backend APIs  
+- 📊 Real-time attendance tracking  
+- ⚙️ Optimized database structure for scalability  
+- 🚀 Production deployment with secure environment configuration  
+
+Built with a strong focus on **security, scalability, and maintainability**.
+
+---
+
 ### 🚀 Startup Contributions
 Collaborated with startup teams to:
 - Build scalable features  
@@ -67,6 +89,10 @@ Collaborated with startup teams to:
 ---
 
 ## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,postgres,laravel,firebase,supabase,ts,js,git&perline=6" />
+</p>
 
 ### 🚀 Frontend
 <p>
@@ -107,6 +133,22 @@ Collaborated with startup teams to:
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nhansreynaet9&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhansreynaet9&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -115,6 +157,18 @@ Collaborated with startup teams to:
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nhansreynaet9/nhansreynaet9/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF4B91&center=true&vCenter=true&width=700&lines=Building+Smart+Mobility+Systems;Designing+Secure+Architectures;Scaling+Startups+with+Code;Secure+%E2%80%A2+Scalable+%E2%80%A2+Production-Ready" />
+</p>
 
 <p align="center">
 💡 Secure • Scalable • Production-Ready
