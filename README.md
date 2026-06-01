@@ -1,47 +1,53 @@
 <!-- ========================================= -->
-<!--        Nhan Sreynaet | System Architect   -->
+<!--        Nhan Sreynaet | iOS Developer      -->
 <!-- ========================================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2F,100:FF0080&height=220&section=header&text=Nhan%20Sreynaet&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡ Full-Stack Engineer | Smart Mobility Architect</h1>
+<h1 align="center">⚡ Full-Stack Engineer | iOS Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FF0080&center=true&vCenter=true&width=900&lines=System+Architecture+%26+Scalable+Design;Secure+Backend+Engineering;React+%7C+React+Native+%7C+Node.js;AI+Chatbot+Integration;JWT+%7C+RBAC+%7C+Production+Security;Building+Real-World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FF0080&center=true&vCenter=true&width=900&lines=System+Architecture+%26+Scalable+Design;Secure+Backend+Engineering;React+%7C+React+Native+%7C+Node.js+%7C+Swift;AI+Chatbot+Integration;JWT+%7C+RBAC+%7C+Production+Security;iOS+Development+%7C+SWIFT+%7C+Banking+Systems" />
 </p>
-
-
-
-
 
 ---
 
 ## 💫 About Me
 
-Full-stack developer building scalable systems for smart mobility, and digital platforms.
+Full-stack developer and iOS developer intern building scalable systems for banking, smart mobility, and digital platforms.
 
-I design secure and production-ready systems from frontend to backend and database architecture — with strong attention to performance and authentication security.
+I design secure and production-ready systems from frontend to backend and database architecture — with strong attention to performance and authentication security. Currently exploring iOS and SWIFT development in a real banking environment.
 
 ---
 
 ## 🏢 Experience
 
-### 💼 Developer Intern — Pointhub  
-**August 1, 2025 – February 2026 (6 Months Internship)**  
+### 🏦 iOS Developer Intern — Chimong Bank
+**May 2026 – Present**
+
+- 📱 Developing iOS applications using Swift
+- 🏦 Working within a banking environment and financial systems
+- ⚙️ Integrating and testing SWIFT-based features
+- 🔐 Maintaining security standards and best practices in a production banking context
+
+---
+
+### 💼 Developer Intern — Pointhub
+**August 2025 – May 2026 (Extended after promotion)**
 
 **Key Responsibilities:**
 
-- 📱 Developed and maintained mobile applications using React Native  
-- 🌐 Built and improved website features  
-- ⚙️ Integrated backend APIs and optimized database queries  
-- 🔐 Implemented authentication systems using JWT (JSON Web Token)  
-- 🗄️ Worked with MongoDB in production environments  
-- 🤖 Developed and integrated AI-powered chatbot features  
-- 🧪 Tested and documented APIs using Swagger and Postman  
-- 🐞 Identified, tracked, and resolved application bugs  
-- 🚀 Contributed to performance improvements and system scalability  
+- 📱 Developed and maintained mobile applications using React Native
+- 🌐 Built and improved website features
+- ⚙️ Integrated backend APIs and optimized database queries
+- 🔐 Implemented authentication systems using JWT (JSON Web Token)
+- 🗄️ Worked with MongoDB in production environments
+- 🤖 Developed and integrated AI-powered chatbot features
+- 🧪 Tested and documented APIs using Swagger and Postman
+- 🐞 Identified, tracked, and resolved application bugs
+- 🚀 Contributed to performance improvements and system scalability
 
 Worked in a real production environment using agile workflow and collaborative development practices.
 
@@ -51,11 +57,11 @@ Worked in a real production environment using agile workflow and collaborative d
 
 ### 🌟 Nisset (Personal Project)
 Independently architected and developed a full-stack platform:
-- System architecture  
-- Mobile development  
-- Backend APIs  
-- JWT-based authentication  
-- Database design & optimization  
+- System architecture
+- Mobile development
+- Backend APIs
+- JWT-based authentication
+- Database design & optimization
 
 ---
 
@@ -65,33 +71,30 @@ Designed and developed a **production-ready mobile application and website** dur
 
 **System Architecture Included:**
 
-- 📱 Cross-platform mobile app (React Native)  
-- 🌐 Web-based admin dashboard  
-- 🔐 JWT-based authentication system  
-- 👥 Role-Based Access Control (Admin / Staff / User roles)  
-- 🤖 AI-powered chatbot integration  
-- 🗄️ Secure backend APIs  
-- 📊 Real-time attendance tracking  
-- ⚙️ Optimized database structure for scalability  
-- 🚀 Production deployment with secure environment configuration  
+- 📱 Cross-platform mobile app (React Native)
+- 🌐 Web-based admin dashboard
+- 🔐 JWT-based authentication system
+- 👥 Role-Based Access Control (Admin / Staff / User roles)
+- 🤖 AI-powered chatbot integration
+- 🗄️ Secure backend APIs
+- 📊 Real-time attendance tracking
+- ⚙️ Optimized database structure for scalability
+- 🚀 Production deployment with secure environment configuration
 
 Built with a strong focus on **security, scalability, and maintainability**.
-
----
-
-### 🚀 Startup Contributions
-Collaborated with startup teams to:
-- Build scalable features  
-- Improve backend performance  
-- Optimize database structures  
-- Maintain secure production-ready systems  
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,postgres,laravel,firebase,supabase,ts,js,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=swift,react,nodejs,express,mongodb,postgres,laravel,firebase,supabase,ts,js,git&perline=6" />
+</p>
+
+### 🍎 iOS & Mobile
+<p>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### 🚀 Frontend
@@ -99,7 +102,6 @@ Collaborated with startup teams to:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
@@ -167,13 +169,5 @@ Collaborated with startup teams to:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF4B91&center=true&vCenter=true&width=700&lines=Building+Smart+Mobility+Systems;Designing+Secure+Architectures;Scaling+Startups+with+Code;Secure+%E2%80%A2+Scalable+%E2%80%A2+Production-Ready" />
-</p>
-
-<p align="center">
-💡 Secure • Scalable • Production-Ready
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:FF4B91&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF4B91&center=true&vCenter=true&width=700&lines=Building+iOS+%26+Banking+Systems;Designing+Secure+Architectures;Full-Stack+to+iOS+Development;Secure+%E2%80%A2+Scalable+%E2%80%A2+Production-Ready" />
 </p>
